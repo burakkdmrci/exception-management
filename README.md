@@ -21,20 +21,7 @@ A Spring Boot project that demonstrates structured exception handling, API error
 
 ## 📁 Project Structure
 
-src
-├── main
-│ ├── java
-│ │ └── com.yourorg.exceptionmanagement
-│ │ ├── controller
-│ │ ├── dto
-│ │ ├── entity
-│ │ ├── exception
-│ │ ├── advice
-│ │ ├── repository
-│ │ └── service
-│ └── resources
-│ ├── application.properties
-│ └── other config files
+<pre> ``` src └── main ├── java │ └── com.yourorg.exceptionmanagement │ ├── controller │ ├── dto │ ├── entity │ ├── exception │ ├── advice │ ├── repository │ └── service └── resources ├── application.properties └── other config files ``` </pre>
 
 markdown
 
