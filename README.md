@@ -52,9 +52,3 @@ Build & run
 
 bash
 ./mvnw spring-boot:run
-# or with Gradle
-./gradlew bootRun
-The application should start at:
-
-arduino
-http://localhost:8080
